@@ -57,8 +57,8 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit00199&show_icons=true&theme=dark&title_color=2edcff&text_color=fef6f6&bg_color=001466&locale=en&layout=compact" alt="amit00199" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-s-sahu&show_icons=true&theme=dark&title_color=2edcff&text_color=fef6f6&bg_color=001466&locale=en&layout=compact" alt="amit00199" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit00199&show_icons=true&theme=dark&title_color=2edcff&text_color=fef6f6&bg_color=001466&locale=en" alt="amit00199" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-s-sahu&show_icons=true&theme=dark&title_color=2edcff&text_color=fef6f6&bg_color=001466&locale=en" alt="amit00199" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit00199&theme=dark" alt="amit00199" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-s-sahu&theme=dark" alt="amit00199" /></p>
