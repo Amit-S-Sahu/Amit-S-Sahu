@@ -1,6 +1,6 @@
 ![logo](https://github.com/Amit00199/Amit00199/blob/main/Git%20banner.gif)
 <h1 align="center">Hi 👋, I'm Amit S Sahu</h1>
-<h3 align="center">I'm Amit S Sahu, a first-year student at UPES, passionate about coding and technology. I'm on a journey of continuous learning, eager to tackle challenges and collaborate on exciting projects. Feel free to connect and let's create something great together!</h3>
+<h3 align="center">I'm Amit S Sahu, a second-year student at UPES, passionate about coding and technology. I'm on a journey of continuous learning, eager to tackle challenges and collaborate on exciting projects. Feel free to connect and let's create something great together!</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
