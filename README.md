@@ -76,3 +76,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-s-sahu&show_icons=true&theme=dark&title_color=2edcff&text_color=fef6f6&bg_color=001466&locale=en" alt="amit00199" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-s-sahu&theme=dark" alt="amit00199" /></p>
+
+<h3 align="left">📊 LeetCode Stats:</h3>
+<p><a href="https://leetcode.com/u/Amit-S-Sahu/" target="_blank"><img align="left" src="https://leetcard.jacoblin.cool/Amit-S-Sahu?theme=unicorn&ext=contest" alt="Amit-S-Sahu" height="300"/></a></p>
+<p><a href="https://leetcode.com/u/Amit-S-Sahu/" target="_blank"><img align="center" src="https://leetcard.jacoblin.cool/Amit-S-Sahu?theme=unicorn&ext=heatmap" alt="Amit-S-Sahu" height="300"/></a></p>
