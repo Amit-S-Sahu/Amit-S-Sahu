@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit00199&label=Profile%20views&color=06476f&style=flat" alt="amit00199" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-s-sahu&label=Profile%20views&color=06476f&style=flat" alt="amit-s-sahu" /> </p>
 
 - 🌱 I’m currently learning **AIML and Full-Stack Development**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amit-s-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-s-sahu" height="30" width="40" /></a>
-<!-- <a href="https://kaggle.com/amit00199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amit00199" height="30" width="40" /></a> -->
+<!-- <a href="https://kaggle.com/amit-s-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amit-s-sahu" height="30" width="40" /></a> -->
 <a href="https://instagram.com/amitssahu786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amitssahu786" height="30" width="40" /></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lol" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/amit_s_sahu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amit_s_sahu" height="30" width="40" /></a> -->
@@ -71,11 +71,11 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-s-sahu&show_icons=true&theme=dark&title_color=2edcff&text_color=fef6f6&bg_color=001466&locale=en&layout=compact" alt="amit00199" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-s-sahu&show_icons=true&theme=dark&title_color=2edcff&text_color=fef6f6&bg_color=001466&locale=en&layout=compact" alt="amit-s-sahu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-s-sahu&show_icons=true&theme=dark&title_color=2edcff&text_color=fef6f6&bg_color=001466&locale=en" alt="amit00199" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-s-sahu&show_icons=true&theme=dark&title_color=2edcff&text_color=fef6f6&bg_color=001466&locale=en" alt="amit-s-sahu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-s-sahu&theme=dark" alt="amit00199" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-s-sahu&theme=dark" alt="amit-s-sahu" /></p>
 
 <h3 align="left">📊 LeetCode Stats:</h3>
 <p><a href="https://leetcode.com/u/Amit-S-Sahu/" target="_blank"><img align="left" src="https://leetcard.jacoblin.cool/Amit-S-Sahu?theme=unicorn&ext=contest" alt="Amit-S-Sahu" height="300"/></a></p>
